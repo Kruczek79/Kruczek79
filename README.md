@@ -10,11 +10,17 @@
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/kruczek_79) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/kruczek79) 
 
 # 💻 Languages and tools I use:
-<h3 align="left">Tools:</h3>
+<h3 align="left">Tools🛠:</h3>
 <p align="left"> 
-    <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a>  
-    <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p> 
-    <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
+    <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> 
+    </a>  
+    <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
+    </a>
 </p>
 <h3 align="left">Languages:</h3>
 <p align="right">
