@@ -1,13 +1,17 @@
 
 [![MasterHead](https://camo.githubusercontent.com/ba9f3bd30647e352a3f5e1e45eb45c6ec7bad6155cd16aaedf4a426738da0ca5/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966)]()
 # 💫 About Me:
-<p align="left"> <a href="https://twitter.com/krukyt" target="blank"><img src="https://img.shields.io/twitter/follow/krukyt?logo=twitter&style=for-the-badge" alt="krukyt" /></a> </p>
 
 - 🌱 I’m currently learning **Objective C++, Javascript, Unreal Engine 5**
 
 
 ## 🌐 Socials:
-[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/kruczek_79) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/kruczek79) 
+<a href="https://twitch.tv/kruczek_79" style="font-size:20px;padding:10px">
+    <img src="https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white"/>
+</a> 
+<a href="https://twitter.com/kruczek79" style="font-size:20px;padding:10px">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white"/>
+</a> 
 
 # 💻 Languages and tools I use:
 
@@ -52,7 +56,7 @@
     </a>
 </p>
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Kruczek79&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Kruczek79&theme=dark&hide_border=falseinclude_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Kruczek79&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kruczek79&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
