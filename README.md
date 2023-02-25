@@ -1,16 +1,24 @@
 
 [![MasterHead](https://camo.githubusercontent.com/ba9f3bd30647e352a3f5e1e45eb45c6ec7bad6155cd16aaedf4a426738da0ca5/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966)]()
+
+<h1 align="center">Hi 👋, I'm Alex</h1>
+<h3 align="center">A programing crazy student from poland</h3>
+
 # 💫 About Me:
 
 - 🌱 I’m currently learning **Objective C++, Javascript, Unreal Engine 5**
+- -🎮🕹 In future I want to be game developer in **Unreal Engine 5**
 
 
 ## 🌐 Socials:
-<a href="https://twitch.tv/kruczek_79" style="font-size:20px;padding:10px">
-    <img src="https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white"/>
+<a href="https://twitch.tv/kruczek_79" style="font-size:20">
+    <img src="https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white"width="120" />
 </a> 
-<a href="https://twitter.com/kruczek79" style="font-size:20px;padding:10px">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white"/>
+<a href="https://twitter.com/kruczek79" style="font-size:20">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" width="120" />
+</a> 
+<a href="https://instagram.com/kruczek79" style="font-size:20">
+    <img src="https://img.shields.io/badge/Instagram-%231DA1F2.svg?logo=Instagram&logoColor=orange" width="120" />
 </a> 
 
 # 💻 Languages and tools I use:
@@ -55,17 +63,11 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
     </a>
 </p>
+
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Kruczek79&theme=dark&hide_border=falseinclude_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Kruczek79&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kruczek79&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=kruczek79&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=kruczek79&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kruczek79&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Kruczek79&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
-
-
-
----
-[![](https://visitcount.itsvg.in/api?id=Kruczek79&icon=2&color=9)](https://visitcount.itsvg.in)
-
-
