@@ -7,8 +7,8 @@ Software Developer and Game Developer
 I'm beginning software developer and game developer. I'm in high school trying to make my own projects to extend my knowledge about all kinds of stuff.
 
 - 🌍 I'm based in Poland
-- 🚀 I'm currently working on [Dev Note](http://dev-note-gamma.vercel.app)
-- 🧠 I'm learning C++, Open GL and Unreal Engine
+- 🚀 I'm currently working on 3d model viewer in OpenGL
+- 🧠 I'm learning C++, Open GL and Unreal Engine 5
 
 [![](https://visitcount.itsvg.in/api?id=Kruczek79&label=Profile%20Views&color=12&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
