@@ -14,9 +14,7 @@ I'm beginning software developer and game developer. I'm in high school trying t
 
 ### Skills
 
-<p align="left">
-    [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
-</p>
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
 
 ### Stats
 
