@@ -14,7 +14,7 @@ I'm beginning software developer and game developer. I'm in high school trying t
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=blender,c,cpp,cmake,css,express,git,github,graphql,html,idea,js,kotlin,mysql,nextjs,nodejs,npm,ps,php,pycharm,py,react,rider,tailwind,threejs,ts,unity,unreal,vercel,visualstudio,vite,vscode,webstorm,windows,wordpress&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=blender,c,cpp,cmake,css,express,git,github,graphql,html,idea,js,kotlin,mysql,nextjs,nodejs,npm,ps,php,pycharm,py,react,rider,tailwind,threejs,ts,unity,unreal,vercel,visualstudio,vite,vscode,webstorm,windows,wordpress,godot,jquery,linux,ubuntu,vim,qt,bootstrap,bash,androidstudio&perline=7)](https://skillicons.dev)
 
 ### Stats
 
